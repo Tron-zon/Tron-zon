@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saud
-- 👀 I’m interested in Coding and Gaming
-- 🌱 I’m currently Doing Diploma in AIML
+- 👀 I’m interested in AI/ML and Cuber securtiy 
+- 🌱 I’m pursuing Diploma in AI/ML
 - 😄 Pronouns: Sam
 
 <!---
